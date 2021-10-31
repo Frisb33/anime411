@@ -1,5 +1,8 @@
 # anime411_1012
 
+# Team members
+Quang Tran, deathscout2003@gmail.com
+
 
 ***Functional requirements:
 
