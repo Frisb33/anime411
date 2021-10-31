@@ -1,6 +1,7 @@
 # anime411_1012
 
-# Team members
+***Team members
+
 Quang Tran, deathscout2003@gmail.com
 Nick Pirouzi, nick2003@my.yorku.ca
 Sadia Tasnim, tasnimsadia229@gmail.com
