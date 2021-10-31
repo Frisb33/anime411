@@ -2,6 +2,14 @@
 
 # Team members
 Quang Tran, deathscout2003@gmail.com
+Nick Pirouzi, nick2003@my.yorku.ca
+Sadia Tasnim, tasnimsadia229@gmail.com
+
+***Project description: 
+
+Our website, Anime411 will be a Mini-Database with an anime theme. It will allow users to see the information of their desired anime. For example, when someone clicks on the thumbnail of an anime (ex. Naruto), it will transit to another page that has the anime's information: the author, characters' name, character's background, and description
+
+
 
 
 ***Functional requirements:
